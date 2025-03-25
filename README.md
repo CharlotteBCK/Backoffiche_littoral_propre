@@ -63,5 +63,3 @@ Gestion des conflits Git : Une difficulté mineure surmontée grâce aux bonnes 
 🌍 Déploiement du projet sur un serveur distant (ex: Vercel, Raspberry Pi)
 👏 Remerciements
 Un grand merci à Ada Tech School et aux encadrants, ainsi que ChatGPT et Claude pour leur accompagnement !
-
-📌 Projet accessible ici : Littoral Propre Backoffice
